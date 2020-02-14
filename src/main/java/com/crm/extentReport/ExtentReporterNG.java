@@ -36,7 +36,6 @@ public class ExtentReporterNG implements IReporter {
 					buildTestNodes(context.getSkippedTests(), LogStatus.SKIP);
 				}
 			}
-
 			extent.flush();
 			extent.close();
 		}

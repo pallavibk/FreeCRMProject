@@ -14,6 +14,7 @@ import com.crm.util.TestUtil;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Listeners;
+import org.testng.annotations.Parameters;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
@@ -28,7 +29,8 @@ public class ContactsPageTest extends Base {
 	TestUtil testUtil;
 	ContactsPage contactsPage;
 	
-	String sheetName = "contacts";
+	  String sheetName = "contacts";
+	 
 	
 	   
 	public ContactsPageTest(){
@@ -36,11 +38,11 @@ public class ContactsPageTest extends Base {
 			
 	}
 	
-	
+	@Parameters({"broser"})
 	@BeforeMethod
-	public void setUp() throws InterruptedException {
+	public void setUp(String broser) throws InterruptedException {
 		
-		initialization();
+		  initialization(broser);
 		testUtil = new TestUtil();
 		contactsPage = new ContactsPage();
 		loginPage = new LoginPage();
@@ -68,15 +70,25 @@ public class ContactsPageTest extends Base {
 	 * }
 	 */
 	
-	@DataProvider
-	public Object[][] getCRMTestData(){
-		Object data[][] = TestUtil.getTestData(sheetName);
-		return data;
-	}
+
 	
+	  @DataProvider public Object[][] getCRMTestData() { Object data[][]
+	  =TestUtil.getTestData(sheetName); return data; }
+	 
 	
 	@Test(priority=2, dataProvider="getCRMTestData")
 	public void validateCreateNewContact(String title, String firstName, String lastName, String company) throws InterruptedException{
+		WebElement ele = driver.findElement(By.xpath("//a[contains(text(),'Contacts')]"));
+		testUtil.mouseOver(ele);
+		Thread.sleep(2000);
+		driver.findElement(By.xpath("//a[contains(text(),'New Contact')]")).click();
+		//homePage.ClickOnContactsLink();
+		Thread.sleep(2000);
+		contactsPage.createNewContact(title, firstName, lastName, company);
+		
+	}
+	@Test(priority=3, dataProvider="getCRMTestData")
+	public void validateCreateNewContact1(String title, String firstName, String lastName, String company) throws InterruptedException{
 		WebElement ele = driver.findElement(By.xpath("//a[contains(text(),'Contacts')]"));
 		testUtil.mouseOver(ele);
 		Thread.sleep(2000);

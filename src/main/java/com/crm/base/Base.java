@@ -35,9 +35,9 @@ public class Base {
 		}
 	}
 
-	public static void initialization()
+	public static void initialization(String BrowserName)
 	{
- String BrowserName=prop.getProperty("browser");
+ //String BrowserName=prop.getProperty("browser");
 	
 		if(BrowserName.equalsIgnoreCase("chrome"))
 		{

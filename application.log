@@ -178,3 +178,141 @@
 2020-01-05 07:45:26,301 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2020-01-05 07:45:26,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2020-01-05 07:45:26,302 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-05 04:44:10,756 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-05 04:44:10,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-05 04:44:10,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-05 04:44:10,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-05 04:44:10,797 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-05 04:44:11,891 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-05 04:44:11,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-05 04:44:11,900 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-05 04:44:11,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-05 04:44:11,901 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-05 04:47:19,328 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-05 04:47:19,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-05 04:47:19,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-05 04:47:19,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-05 04:47:19,328 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-05 04:47:19,812 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-05 04:47:19,812 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-05 04:47:19,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-05 04:47:19,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-05 04:47:19,827 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 02:56:08,859  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 02:56:08,891 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 02:56:28,398  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 02:56:28,398 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 02:56:36,906  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 02:56:36,906 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 02:56:48,151 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 02:56:48,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 02:56:48,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 02:56:48,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 02:56:48,158 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 02:56:48,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 02:56:48,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 02:56:48,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 02:56:48,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 02:56:48,766 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 02:57:58,484  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 02:58:13,969  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 02:58:23,125  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 03:02:46,266  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 03:02:46,281 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 03:03:01,130  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 03:03:01,130 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 03:03:09,236  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 03:03:09,236 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 03:03:20,042 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 03:03:20,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 03:03:20,046 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 03:03:20,048 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 03:03:20,049 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 03:03:20,646 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 03:03:20,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 03:03:20,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 03:03:20,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 03:03:20,649 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 03:12:02,313 FATAL [main] LoginPageTest:41 - This is a fatal message
+2020-02-10 05:42:57,610  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 05:42:57,610 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 05:42:57,610 FATAL [main] LoginPageTest:41 - This is a fatal message
+2020-02-10 05:43:14,032  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 05:43:14,032 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 05:43:14,032 FATAL [main] LoginPageTest:41 - This is a fatal message
+2020-02-10 05:43:22,797  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-10 05:43:22,797 DEBUG [main] LoginPageTest:40 - Inside setup: broser: chrome
+2020-02-10 05:43:22,797 FATAL [main] LoginPageTest:41 - This is a fatal message
+2020-02-10 05:43:33,860 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 05:43:33,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 05:43:33,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 05:43:33,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 05:43:33,860 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-10 05:43:34,469 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-02-10 05:43:34,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-02-10 05:43:34,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-02-10 05:43:34,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-02-10 05:43:34,482 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/somapurshiva/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-02-11 10:23:13,949  INFO [main] LoginPageTest:39 - Entered setup method
+2020-02-11 10:23:13,955 DEBUG [main] LoginPageTest:40 - Inside setup: broser: firefox
+2020-02-11 10:23:13,955 FATAL [main] LoginPageTest:41 - This is a fatal message
+2020-02-11 10:25:09,350  INFO [main] LoginPageTest:43 - Entered setup method
+2020-02-11 10:25:09,355 DEBUG [main] LoginPageTest:44 - Inside setup: broser: chrome
+2020-02-11 10:25:09,355 FATAL [main] LoginPageTest:45 - This is a fatal message
+2020-02-11 10:25:28,269  INFO [main] LoginPageTest:43 - Entered setup method
+2020-02-11 10:25:28,269 DEBUG [main] LoginPageTest:44 - Inside setup: broser: chrome
+2020-02-11 10:25:28,270 FATAL [main] LoginPageTest:45 - This is a fatal message
+2020-02-11 10:25:36,707  INFO [main] LoginPageTest:43 - Entered setup method
+2020-02-11 10:25:36,707 DEBUG [main] LoginPageTest:44 - Inside setup: broser: chrome
+2020-02-11 10:25:36,707 FATAL [main] LoginPageTest:45 - This is a fatal message
+2020-02-11 11:07:59,621  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Entered setup method
+2020-02-11 11:07:59,625 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - Inside setup: broser: chrome
+2020-02-11 11:07:59,626 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:53 - This is a fatal message
+2020-02-11 11:08:16,661  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Entered setup method
+2020-02-11 11:08:16,661 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - Inside setup: broser: chrome
+2020-02-11 11:08:16,662 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:53 - This is a fatal message
+2020-02-11 11:08:24,664  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Entered setup method
+2020-02-11 11:08:24,665 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - Inside setup: broser: chrome
+2020-02-11 11:08:24,665 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:53 - This is a fatal message
+2020-02-11 11:25:33,920  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 11:25:33,924 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 11:25:33,925 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 11:25:51,052  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 11:25:51,053 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 11:25:51,053 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 11:25:59,666  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 11:25:59,666 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 11:25:59,667 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 12:07:13,254  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 12:07:13,261 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 12:07:13,261 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 12:07:28,409  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 12:07:28,409 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 12:07:28,410 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 12:07:37,134  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:50 - Entered setup method
+2020-02-11 12:07:37,134 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:51 - Inside setup: broser: chrome
+2020-02-11 12:07:37,134 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:52 - This is a fatal message
+2020-02-11 12:10:06,815  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:10:06,820 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:10:06,820 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 12:10:22,656  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:10:22,657 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:10:22,657 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 12:10:31,347  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:10:31,348 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:10:31,348 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 12:23:04,172  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:23:04,172 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:23:04,172 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 12:23:20,578  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:23:20,578 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:23:20,578 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 12:23:29,578  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 12:23:29,578 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 12:23:29,580 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message
+2020-02-11 13:14:55,877  INFO [TestNG-test=Free CRM App Test Case 1-2] LoginPageTest:47 - Entered setup method
+2020-02-11 13:14:55,880 DEBUG [TestNG-test=Free CRM App Test Case 1-2] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 13:14:55,881 FATAL [TestNG-test=Free CRM App Test Case 1-2] LoginPageTest:49 - This is a fatal message
+2020-02-11 13:14:55,877  INFO [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:47 - Entered setup method
+2020-02-11 13:14:55,882 DEBUG [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:48 - Inside setup: broser: chrome
+2020-02-11 13:14:55,882 FATAL [TestNG-test=Free CRM App Test Case 1-1] LoginPageTest:49 - This is a fatal message

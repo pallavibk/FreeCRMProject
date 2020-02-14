@@ -13,6 +13,7 @@ import com.crm.util.TestUtil;
 
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Listeners;
+import org.testng.annotations.Parameters;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 
@@ -30,11 +31,11 @@ public class HomePageTest extends Base {
 	{
 		super();
 	}
-	
-  @BeforeMethod
-  public void setup() 
+	@Parameters({ "broser" })
+	@BeforeMethod
+  public void setup(String broser) 
   {
-	  initialization();
+	  initialization(broser);
 	 ContactsPage contactpageObj=new ContactsPage();
 	DealsPage dealsPageObj=new DealsPage();
 	 TaskPage taskPageObj=new TaskPage();
